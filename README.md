@@ -1,3 +1,3 @@
-## Learn-C Code Examples
+## Hello!, Merhaba!, こんにちは!
 
-This repository contains code examples from `learn-c.org`.
+This repository contains answers to the questions from `learn-c.org`.
